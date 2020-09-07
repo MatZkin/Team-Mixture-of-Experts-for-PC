@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\user\\Google Drive\\Universit\303\240\\PhD\\Code\\Python\\ReproducibleMoE/initializedExperts/model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\user\\Google Drive\\Universit\303\240\\PhD\\Code\\Python\\ReproducibleMoE/initializedExperts/model.ckpt"
